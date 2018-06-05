@@ -1,5 +1,5 @@
 body {
-    background-color: midnightblue;
+    background-color: #2C66B8;
 
 }
 
@@ -12,13 +12,38 @@ body {
 }
 
 #barralateralprincipal {
-    background-color: cadetblue;
+    float: left;    
+    height: 2200px;
+    background-color: #4A7CC2;
+	border-bottom: solid 0.104em #7198C1;
+	border-top: solid 0.104em #7198C1;
+	-webkit-box-shadow: 0 0 0.8333em rgba(0, 0, 0, 0.4);
+	-moz-box-shadow: 0 0 0.8333em rgba(0, 0, 0, 0.4);
+	box-shadow: 0 0 0.8333em rgba(0, 0, 0, 0.4);
+	color: #FFFFFF;
+	padding: 0.1875em 0;
+	text-align: center;
+	text-shadow: 0 -1px rgba(0, 0, 0, 0.5);
 }
 
 #seccionprincipal{
     background-color: wheat;
+    margin-left: 175px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
 }
 
 #footerprincipal{
-    background-color: teal;
+    background-color: rgb(6, 0, 85);
+    clear: both;
+    color: white;
+    margin-top: 40px;
+    text-align: center;
+}
+
+li{
+    background-color: aqua;
+    display: inline;
 }
